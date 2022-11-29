@@ -1,0 +1,11 @@
+.idea
+__pycache__
+images
+models
+output
+paddle_ocr_own_model
+paddle_ocr_pre_train_models2
+ppocr_img
+venv
+image_split_command.txt
+video.py
